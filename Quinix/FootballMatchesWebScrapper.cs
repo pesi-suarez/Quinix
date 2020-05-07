@@ -1,8 +1,9 @@
-﻿using System;
+﻿using HtmlAgilityPack;  //TODONEW: Mencionar en el readme.
+using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using HtmlAgilityPack;  //TODONEW: Mencionar en el readme.
+using System.Net.Http;
+using System.Threading.Tasks;
 
 namespace Quinix
 {
@@ -13,7 +14,7 @@ namespace Quinix
         public const int FIRST_SEASON = 2001;
         private readonly string[] DIVISIONS = { "primera", "segunda" }; //NO MODIFICAR (URL)
         //TODONEW: Anonimizar la URL. Igualmente me he informado de que el scrapping web es legal en españa: https://diariodeuneletrado.wordpress.com/2017/03/22/es-legal-el-web-scrapping-de-webscrapping-y-legalidad/
-        private const string ROOT_URL = "http://www.marca.com/estadisticas/futbol";
+        private const string ROOT_URL = "https://www.marca.com/estadisticas/futbol";
         private const string ENCODING = "iso-8859-15";
 
         public int InitialSeason { get; set; }
@@ -63,32 +64,39 @@ namespace Quinix
         private void ProcessCurrentMatchDay()
         {
             string matchDaysResultsURL = GenerateMatchDayResultsURL(CurrentMatchDay);
-            List<HtmlNode> resultNodes = GetResultNodes(matchDaysResultsURL);
+            List<HtmlNode> resultNodes = GetResultNodes(matchDaysResultsURL).GetAwaiter().GetResult();
             foreach (HtmlNode resultNode in resultNodes)
                 NodeOperation(CurrentYear, CurrentDivision, CurrentMatchDay, resultNode, ResultsFilePath);
         }
 
         private string GenerateMatchDayResultsURL(int matchDay)
         {
-            return string.Format("{0}/{1}/{2}/jornada_{3}", ROOT_URL, CurrentDivision, Utils.YearToSeasonString(CurrentYear), matchDay);
+            return string.Format("{0}/{1}/{2}/jornada_{3}/", ROOT_URL, CurrentDivision, Utils.YearToSeasonString(CurrentYear), matchDay);
         }
 
-        private List<HtmlNode> GetResultNodes(string matchDaysResultsURL)
+        //TODONEW: Arreglar lo de la codificación.
+        //Adapted from https://stackoverflow.com/questions/43364856/get-web-page-using-htmlagilitypack-netcore
+        private async Task<List<HtmlNode>> GetResultNodes(string matchDaysResultsURL)
         {
-            HtmlWeb resultsWeb = new HtmlWeb
+            HttpClient client = new HttpClient();
+            using (var response = await client.GetAsync(matchDaysResultsURL))
             {
-                OverrideEncoding = Encoding.GetEncoding(ENCODING)
-            };
-            HtmlDocument doc = resultsWeb.Load(matchDaysResultsURL);
-            if (!doc.DocumentNode.SelectSingleNode("//title").InnerText.Contains("404"))
-            {
-                HtmlNodeCollection nodes = doc.DocumentNode.SelectNodes("//tr[@onclick]");
-                if (nodes != null)
-                    return nodes.ToList();
-                else
-                    return doc.DocumentNode.SelectNodes("//tr[@class]").Where(n => n.Attributes["class"].Value.Equals("nolink")).ToList();
+                using (var content = response.Content)
+                {
+                    var result = await content.ReadAsStringAsync();
+                    var doc = new HtmlDocument();
+                    doc.LoadHtml(result);
+                    if (!doc.DocumentNode.SelectSingleNode("//title").InnerText.Contains("404"))
+                    {
+                        HtmlNodeCollection nodes = doc.DocumentNode.SelectNodes("//tr[@onclick]");
+                        if (nodes != null)
+                            return nodes.ToList();
+                        else
+                            return doc.DocumentNode.SelectNodes("//tr[@class]").Where(n => n.Attributes["class"].Value.Equals("nolink")).ToList();
+                    }
+                    else return new List<HtmlNode>();
+                }
             }
-            else return new List<HtmlNode>();
         }
 
         public void ExecuteSingle(int year, string division, int matchDay)
