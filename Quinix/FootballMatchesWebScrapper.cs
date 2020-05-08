@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net.Http;
+using System.Text;
 using System.Threading.Tasks;
 
 namespace Quinix
@@ -15,7 +16,7 @@ namespace Quinix
         private readonly string[] DIVISIONS = { "primera", "segunda" }; //NO MODIFICAR (URL)
         //TODONEW: Anonimizar la URL. Igualmente me he informado de que el scrapping web es legal en españa: https://diariodeuneletrado.wordpress.com/2017/03/22/es-legal-el-web-scrapping-de-webscrapping-y-legalidad/
         private const string ROOT_URL = "https://www.marca.com/estadisticas/futbol";
-        private const string ENCODING = "iso-8859-15";
+        private const string ENCODING = "iso-8859-1";
 
         public int InitialSeason { get; set; }
         public int FinalSeason { get; set; }
@@ -74,18 +75,18 @@ namespace Quinix
             return string.Format("{0}/{1}/{2}/jornada_{3}/", ROOT_URL, CurrentDivision, Utils.YearToSeasonString(CurrentYear), matchDay);
         }
 
-        //TODONEW: Arreglar lo de la codificación.
         //Adapted from https://stackoverflow.com/questions/43364856/get-web-page-using-htmlagilitypack-netcore
         private async Task<List<HtmlNode>> GetResultNodes(string matchDaysResultsURL)
         {
             HttpClient client = new HttpClient();
-            using (var response = await client.GetAsync(matchDaysResultsURL))
+            using (HttpResponseMessage response = await client.GetAsync(matchDaysResultsURL))
             {
-                using (var content = response.Content)
+                using (HttpContent content = response.Content)
                 {
-                    var result = await content.ReadAsStringAsync();
-                    var doc = new HtmlDocument();
-                    doc.LoadHtml(result);
+                    byte[] contentBytes = await content.ReadAsByteArrayAsync();
+                    string contentString = Encoding.GetEncoding(ENCODING).GetString(contentBytes);
+                    HtmlDocument doc = new HtmlDocument();
+                    doc.LoadHtml(contentString);
                     if (!doc.DocumentNode.SelectSingleNode("//title").InnerText.Contains("404"))
                     {
                         HtmlNodeCollection nodes = doc.DocumentNode.SelectNodes("//tr[@onclick]");
