@@ -1,4 +1,5 @@
-﻿using Quinix.Data;
+﻿using Microsoft.EntityFrameworkCore;
+using Quinix.Data;
 using Quinix.Model;
 using System;
 using System.Collections.Generic;
@@ -24,7 +25,7 @@ namespace Quinix
         public static List<Match> GetMatches(Season season, Division division, int firstMatchDay, int lastMatchDay)
         {
             QuinixDbContext context = new QuinixDbContext();
-            return context.Matches.Where(m => m.SeasonId == season.Id && m.DivisionId == division.Id && m.MatchDay >= firstMatchDay && m.MatchDay <= lastMatchDay).OrderBy(m => m.MatchDay).ToList();
+            return context.Matches.Include(m => m.HomeTeam).Include(m => m.AwayTeam).Where(m => m.SeasonId == season.Id && m.DivisionId == division.Id && m.MatchDay >= firstMatchDay && m.MatchDay <= lastMatchDay).OrderBy(m => m.MatchDay).ToList();
         }
 
         //Genera un hash MD5 de 32 caracteres a partir del contenido del fichero situado en "filePath".
