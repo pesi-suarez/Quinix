@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScrapSeasonMatches", "Scrap
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenerateClassificationTableReport", "GenerateClassificationTableReport\GenerateClassificationTableReport.csproj", "{6D8AEA94-3814-4282-8198-F06E9A3B53C0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenerateFeatureMatrix", "GenerateFeatureMatrix\GenerateFeatureMatrix.csproj", "{B40D6418-D805-4E45-8625-2F1AD08BDA68}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{6D8AEA94-3814-4282-8198-F06E9A3B53C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D8AEA94-3814-4282-8198-F06E9A3B53C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D8AEA94-3814-4282-8198-F06E9A3B53C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B40D6418-D805-4E45-8625-2F1AD08BDA68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B40D6418-D805-4E45-8625-2F1AD08BDA68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B40D6418-D805-4E45-8625-2F1AD08BDA68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B40D6418-D805-4E45-8625-2F1AD08BDA68}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -5,6 +5,7 @@
 
 #Files added by me
 GenerateClassificationTableReport/output/*
+GenerateFeatureMatrix/output/*
 
 # User-specific files
 *.suo
