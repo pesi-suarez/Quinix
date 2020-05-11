@@ -6,6 +6,7 @@
 #Files added by me
 GenerateClassificationTableReport/output/*
 GenerateFeatureMatrix/output/*
+QuinixUnitTesting/test_data/TestFeatureMatrixGenerator/features.csv
 
 # User-specific files
 *.suo

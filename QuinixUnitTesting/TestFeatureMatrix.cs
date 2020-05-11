@@ -9,6 +9,8 @@ namespace QuinixUnitTesting
         private readonly string _resultsFilePath = @"..\..\..\test_data\TestFeatureMatrix\features.csv";
 
         //TODO: Antes de la ejecución de los tests se deberían descargar los datos y regenerar la matriz de características.
+        //TODONETCORE: Debería ver cómo creo una BD de prueba sólo para los tests, que se elimine después de la ejecución del último test.
+        //TODONETCORE: Además, esta BD debería sedearla con los datos que ahora mismo se leen de la BD de producción.
         private float GetTarget(int season, string division, string homeTeam, int matchDay, string column)
         {
             var frame = Frame.ReadCsv(_resultsFilePath, separators: ";");

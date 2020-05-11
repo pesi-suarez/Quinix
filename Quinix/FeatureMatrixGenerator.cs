@@ -9,6 +9,7 @@ namespace Quinix
 {
     public class FeatureMatrixGenerator
     {
+        //TODONEW: Clase anidada a otro fichero.
         //TODO: Tal vez debería generalizar lo de las performances de 3 5 10 a n0, n1...
         public class FeatureMatrixItem
         {

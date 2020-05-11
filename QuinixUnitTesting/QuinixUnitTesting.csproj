@@ -14,7 +14,12 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="test_data\TestFeatureMatrixGenerator\" />
     <Folder Include="test_data\TestFeatureMatrix\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Quinix\Quinix.csproj" />
   </ItemGroup>
 
 </Project>
