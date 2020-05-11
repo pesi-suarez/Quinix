@@ -10,6 +10,8 @@ namespace Quinix
     public class FeatureMatrixGenerator
     {
         //TODONEW: Clase anidada a otro fichero.
+        //TODONEW: Al generar la matriz de características ordenar alfabéticamente por equipo local dentro de cada jornada. De esta manera el resultado no depende de cómo se hayan almacenado los datos en la BD.
+        //TODONEW: En el test unitario de WebScrapperToFile, en el que puede haber un problema similar, contar líneas en lugar de comparar hashes.
         //TODO: Tal vez debería generalizar lo de las performances de 3 5 10 a n0, n1...
         public class FeatureMatrixItem
         {
