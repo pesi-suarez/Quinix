@@ -1,0 +1,841 @@
+Temporada 2016_17 primera división. Jornada 1:		Atlético		1-1		Alavés
+Temporada 2016_17 primera división. Jornada 1:		Barcelona		6-2		Betis
+Temporada 2016_17 primera división. Jornada 1:		Celta			0-1		Leganés
+Temporada 2016_17 primera división. Jornada 1:		Deportivo		2-1		Eibar
+Temporada 2016_17 primera división. Jornada 1:		R. Sociedad		0-3		R. Madrid
+Temporada 2016_17 primera división. Jornada 1:		Valencia		2-4		Las Palmas
+Temporada 2016_17 primera división. Jornada 1:		Málaga			1-1		Osasuna
+Temporada 2016_17 primera división. Jornada 1:		Sevilla			6-4		Espanyol
+Temporada 2016_17 primera división. Jornada 1:		Sporting		2-1		Athletic
+Temporada 2016_17 primera división. Jornada 1:		Granada			1-1		Villarreal
+Temporada 2016_17 primera división. Jornada 2:		Athletic		0-1		Barcelona
+Temporada 2016_17 primera división. Jornada 2:		Betis			0-0		Deportivo
+Temporada 2016_17 primera división. Jornada 2:		Espanyol		2-2		Málaga
+Temporada 2016_17 primera división. Jornada 2:		R. Madrid		2-1		Celta
+Temporada 2016_17 primera división. Jornada 2:		Villarreal		0-0		Sevilla
+Temporada 2016_17 primera división. Jornada 2:		Alavés			0-0		Sporting
+Temporada 2016_17 primera división. Jornada 2:		Osasuna			0-2		R. Sociedad
+Temporada 2016_17 primera división. Jornada 2:		Las Palmas		5-1		Granada
+Temporada 2016_17 primera división. Jornada 2:		Eibar			1-0		Valencia
+Temporada 2016_17 primera división. Jornada 2:		Leganés			0-0		Atlético
+Temporada 2016_17 primera división. Jornada 3:		Barcelona		1-2		Alavés
+Temporada 2016_17 primera división. Jornada 3:		Celta			0-4		Atlético
+Temporada 2016_17 primera división. Jornada 3:		Deportivo		0-1		Athletic
+Temporada 2016_17 primera división. Jornada 3:		R. Madrid		5-2		Osasuna
+Temporada 2016_17 primera división. Jornada 3:		R. Sociedad		1-1		Espanyol
+Temporada 2016_17 primera división. Jornada 3:		Valencia		2-3		Betis
+Temporada 2016_17 primera división. Jornada 3:		Málaga			0-2		Villarreal
+Temporada 2016_17 primera división. Jornada 3:		Sevilla			2-1		Las Palmas
+Temporada 2016_17 primera división. Jornada 3:		Sporting		2-1		Leganés
+Temporada 2016_17 primera división. Jornada 3:		Granada			1-2		Eibar
+Temporada 2016_17 primera división. Jornada 4:		Athletic		2-1		Valencia
+Temporada 2016_17 primera división. Jornada 4:		Atlético		5-0		Sporting
+Temporada 2016_17 primera división. Jornada 4:		Betis			2-2		Granada
+Temporada 2016_17 primera división. Jornada 4:		Espanyol		0-2		R. Madrid
+Temporada 2016_17 primera división. Jornada 4:		Villarreal		2-1		R. Sociedad
+Temporada 2016_17 primera división. Jornada 4:		Alavés			0-0		Deportivo
+Temporada 2016_17 primera división. Jornada 4:		Osasuna			0-0		Celta
+Temporada 2016_17 primera división. Jornada 4:		Las Palmas		1-0		Málaga
+Temporada 2016_17 primera división. Jornada 4:		Eibar			1-1		Sevilla
+Temporada 2016_17 primera división. Jornada 4:		Leganés			1-5		Barcelona
+Temporada 2016_17 primera división. Jornada 5:		Barcelona		1-1		Atlético
+Temporada 2016_17 primera división. Jornada 5:		Celta			2-1		Sporting
+Temporada 2016_17 primera división. Jornada 5:		Deportivo		1-2		Leganés
+Temporada 2016_17 primera división. Jornada 5:		R. Madrid		1-1		Villarreal
+Temporada 2016_17 primera división. Jornada 5:		R. Sociedad		4-1		Las Palmas
+Temporada 2016_17 primera división. Jornada 5:		Valencia		2-1		Alavés
+Temporada 2016_17 primera división. Jornada 5:		Málaga			2-1		Eibar
+Temporada 2016_17 primera división. Jornada 5:		Sevilla			1-0		Betis
+Temporada 2016_17 primera división. Jornada 5:		Osasuna			1-2		Espanyol
+Temporada 2016_17 primera división. Jornada 5:		Granada			1-2		Athletic
+Temporada 2016_17 primera división. Jornada 6:		Athletic		3-1		Sevilla
+Temporada 2016_17 primera división. Jornada 6:		Atlético		1-0		Deportivo
+Temporada 2016_17 primera división. Jornada 6:		Betis			1-0		Málaga
+Temporada 2016_17 primera división. Jornada 6:		Espanyol		0-2		Celta
+Temporada 2016_17 primera división. Jornada 6:		Villarreal		3-1		Osasuna
+Temporada 2016_17 primera división. Jornada 6:		Alavés			3-1		Granada
+Temporada 2016_17 primera división. Jornada 6:		Las Palmas		2-2		R. Madrid
+Temporada 2016_17 primera división. Jornada 6:		Eibar			2-0		R. Sociedad
+Temporada 2016_17 primera división. Jornada 6:		Leganés			1-2		Valencia
+Temporada 2016_17 primera división. Jornada 6:		Sporting		0-5		Barcelona
+Temporada 2016_17 primera división. Jornada 7:		Celta			4-3		Barcelona
+Temporada 2016_17 primera división. Jornada 7:		Deportivo		2-1		Sporting
+Temporada 2016_17 primera división. Jornada 7:		Espanyol		0-0		Villarreal
+Temporada 2016_17 primera división. Jornada 7:		R. Madrid		1-1		Eibar
+Temporada 2016_17 primera división. Jornada 7:		R. Sociedad		1-0		Betis
+Temporada 2016_17 primera división. Jornada 7:		Valencia		0-2		Atlético
+Temporada 2016_17 primera división. Jornada 7:		Málaga			2-1		Athletic
+Temporada 2016_17 primera división. Jornada 7:		Sevilla			2-1		Alavés
+Temporada 2016_17 primera división. Jornada 7:		Osasuna			2-2		Las Palmas
+Temporada 2016_17 primera división. Jornada 7:		Granada			0-1		Leganés
+Temporada 2016_17 primera división. Jornada 8:		Athletic		3-2		R. Sociedad
+Temporada 2016_17 primera división. Jornada 8:		Atlético		7-1		Granada
+Temporada 2016_17 primera división. Jornada 8:		Barcelona		4-0		Deportivo
+Temporada 2016_17 primera división. Jornada 8:		Betis			1-6		R. Madrid
+Temporada 2016_17 primera división. Jornada 8:		Villarreal		5-0		Celta
+Temporada 2016_17 primera división. Jornada 8:		Alavés			1-1		Málaga
+Temporada 2016_17 primera división. Jornada 8:		Las Palmas		0-0		Espanyol
+Temporada 2016_17 primera división. Jornada 8:		Eibar			2-3		Osasuna
+Temporada 2016_17 primera división. Jornada 8:		Leganés			2-3		Sevilla
+Temporada 2016_17 primera división. Jornada 8:		Sporting		1-2		Valencia
+Temporada 2016_17 primera división. Jornada 9:		Celta			4-1		Deportivo
+Temporada 2016_17 primera división. Jornada 9:		Espanyol		3-3		Eibar
+Temporada 2016_17 primera división. Jornada 9:		R. Madrid		2-1		Athletic
+Temporada 2016_17 primera división. Jornada 9:		R. Sociedad		3-0		Alavés
+Temporada 2016_17 primera división. Jornada 9:		Valencia		2-3		Barcelona
+Temporada 2016_17 primera división. Jornada 9:		Villarreal		2-1		Las Palmas
+Temporada 2016_17 primera división. Jornada 9:		Málaga			4-0		Leganés
+Temporada 2016_17 primera división. Jornada 9:		Sevilla			1-0		Atlético
+Temporada 2016_17 primera división. Jornada 9:		Osasuna			1-2		Betis
+Temporada 2016_17 primera división. Jornada 9:		Granada			0-0		Sporting
+Temporada 2016_17 primera división. Jornada 10:		Athletic		1-1		Osasuna
+Temporada 2016_17 primera división. Jornada 10:		Atlético		4-2		Málaga
+Temporada 2016_17 primera división. Jornada 10:		Barcelona		1-0		Granada
+Temporada 2016_17 primera división. Jornada 10:		Betis			0-1		Espanyol
+Temporada 2016_17 primera división. Jornada 10:		Deportivo		1-1		Valencia
+Temporada 2016_17 primera división. Jornada 10:		Alavés			1-4		R. Madrid
+Temporada 2016_17 primera división. Jornada 10:		Las Palmas		3-3		Celta
+Temporada 2016_17 primera división. Jornada 10:		Eibar			2-1		Villarreal
+Temporada 2016_17 primera división. Jornada 10:		Leganés			0-2		R. Sociedad
+Temporada 2016_17 primera división. Jornada 10:		Sporting		1-1		Sevilla
+Temporada 2016_17 primera división. Jornada 11:		Celta			2-1		Valencia
+Temporada 2016_17 primera división. Jornada 11:		Espanyol		0-0		Athletic
+Temporada 2016_17 primera división. Jornada 11:		R. Madrid		3-0		Leganés
+Temporada 2016_17 primera división. Jornada 11:		R. Sociedad		2-0		Atlético
+Temporada 2016_17 primera división. Jornada 11:		Villarreal		2-0		Betis
+Temporada 2016_17 primera división. Jornada 11:		Málaga			3-2		Sporting
+Temporada 2016_17 primera división. Jornada 11:		Sevilla			1-2		Barcelona
+Temporada 2016_17 primera división. Jornada 11:		Osasuna			0-1		Alavés
+Temporada 2016_17 primera división. Jornada 11:		Las Palmas		1-0		Eibar
+Temporada 2016_17 primera división. Jornada 11:		Granada			1-1		Deportivo
+Temporada 2016_17 primera división. Jornada 12:		Athletic		1-0		Villarreal
+Temporada 2016_17 primera división. Jornada 12:		Atlético		0-3		R. Madrid
+Temporada 2016_17 primera división. Jornada 12:		Barcelona		0-0		Málaga
+Temporada 2016_17 primera división. Jornada 12:		Betis			2-0		Las Palmas
+Temporada 2016_17 primera división. Jornada 12:		Deportivo		2-3		Sevilla
+Temporada 2016_17 primera división. Jornada 12:		Valencia		1-1		Granada
+Temporada 2016_17 primera división. Jornada 12:		Alavés			0-1		Espanyol
+Temporada 2016_17 primera división. Jornada 12:		Eibar			1-0		Celta
+Temporada 2016_17 primera división. Jornada 12:		Leganés			2-0		Osasuna
+Temporada 2016_17 primera división. Jornada 12:		Sporting		1-3		R. Sociedad
+Temporada 2016_17 primera división. Jornada 13:		Celta			3-1		Granada
+Temporada 2016_17 primera división. Jornada 13:		Espanyol		3-0		Leganés
+Temporada 2016_17 primera división. Jornada 13:		R. Madrid		2-1		Sporting
+Temporada 2016_17 primera división. Jornada 13:		R. Sociedad		1-1		Barcelona
+Temporada 2016_17 primera división. Jornada 13:		Villarreal		0-2		Alavés
+Temporada 2016_17 primera división. Jornada 13:		Málaga			4-3		Deportivo
+Temporada 2016_17 primera división. Jornada 13:		Sevilla			2-1		Valencia
+Temporada 2016_17 primera división. Jornada 13:		Osasuna			0-3		Atlético
+Temporada 2016_17 primera división. Jornada 13:		Las Palmas		3-1		Athletic
+Temporada 2016_17 primera división. Jornada 13:		Eibar			3-1		Betis
+Temporada 2016_17 primera división. Jornada 14:		Athletic		3-1		Eibar
+Temporada 2016_17 primera división. Jornada 14:		Atlético		0-0		Espanyol
+Temporada 2016_17 primera división. Jornada 14:		Barcelona		1-1		R. Madrid
+Temporada 2016_17 primera división. Jornada 14:		Betis			3-3		Celta
+Temporada 2016_17 primera división. Jornada 14:		Deportivo		5-1		R. Sociedad
+Temporada 2016_17 primera división. Jornada 14:		Valencia		2-2		Málaga
+Temporada 2016_17 primera división. Jornada 14:		Alavés			1-1		Las Palmas
+Temporada 2016_17 primera división. Jornada 14:		Leganés			0-0		Villarreal
+Temporada 2016_17 primera división. Jornada 14:		Sporting		3-1		Osasuna
+Temporada 2016_17 primera división. Jornada 14:		Granada			2-1		Sevilla
+Temporada 2016_17 primera división. Jornada 15:		Betis			1-0		Athletic
+Temporada 2016_17 primera división. Jornada 15:		Celta			0-3		Sevilla
+Temporada 2016_17 primera división. Jornada 15:		Espanyol		2-1		Sporting
+Temporada 2016_17 primera división. Jornada 15:		R. Madrid		3-2		Deportivo
+Temporada 2016_17 primera división. Jornada 15:		R. Sociedad		3-2		Valencia
+Temporada 2016_17 primera división. Jornada 15:		Villarreal		3-0		Atlético
+Temporada 2016_17 primera división. Jornada 15:		Málaga			1-1		Granada
+Temporada 2016_17 primera división. Jornada 15:		Osasuna			0-3		Barcelona
+Temporada 2016_17 primera división. Jornada 15:		Las Palmas		1-1		Leganés
+Temporada 2016_17 primera división. Jornada 15:		Eibar			0-0		Alavés
+Temporada 2016_17 primera división. Jornada 16:		Athletic		2-1		Celta
+Temporada 2016_17 primera división. Jornada 16:		Atlético		1-0		Las Palmas
+Temporada 2016_17 primera división. Jornada 16:		Barcelona		4-1		Espanyol
+Temporada 2016_17 primera división. Jornada 16:		Deportivo		2-0		Osasuna
+Temporada 2016_17 primera división. Jornada 16:		Valencia		2-1		R. Madrid
+Temporada 2016_17 primera división. Jornada 16:		Alavés			1-0		Betis
+Temporada 2016_17 primera división. Jornada 16:		Sevilla			4-1		Málaga
+Temporada 2016_17 primera división. Jornada 16:		Leganés			1-1		Eibar
+Temporada 2016_17 primera división. Jornada 16:		Sporting		1-3		Villarreal
+Temporada 2016_17 primera división. Jornada 16:		Granada			0-2		R. Sociedad
+Temporada 2016_17 primera división. Jornada 17:		Athletic		0-0		Alavés
+Temporada 2016_17 primera división. Jornada 17:		Betis			2-0		Leganés
+Temporada 2016_17 primera división. Jornada 17:		Celta			3-1		Málaga
+Temporada 2016_17 primera división. Jornada 17:		Espanyol		1-1		Deportivo
+Temporada 2016_17 primera división. Jornada 17:		R. Madrid		5-0		Granada
+Temporada 2016_17 primera división. Jornada 17:		R. Sociedad		0-4		Sevilla
+Temporada 2016_17 primera división. Jornada 17:		Villarreal		1-1		Barcelona
+Temporada 2016_17 primera división. Jornada 17:		Osasuna			3-3		Valencia
+Temporada 2016_17 primera división. Jornada 17:		Las Palmas		1-0		Sporting
+Temporada 2016_17 primera división. Jornada 17:		Eibar			0-2		Atlético
+Temporada 2016_17 primera división. Jornada 18:		Atlético		1-0		Betis
+Temporada 2016_17 primera división. Jornada 18:		Barcelona		5-0		Las Palmas
+Temporada 2016_17 primera división. Jornada 18:		Celta			1-0		Alavés
+Temporada 2016_17 primera división. Jornada 18:		Deportivo		0-0		Villarreal
+Temporada 2016_17 primera división. Jornada 18:		Valencia		2-1		Espanyol
+Temporada 2016_17 primera división. Jornada 18:		Málaga			0-2		R. Sociedad
+Temporada 2016_17 primera división. Jornada 18:		Sevilla			2-1		R. Madrid
+Temporada 2016_17 primera división. Jornada 18:		Leganés			0-0		Athletic
+Temporada 2016_17 primera división. Jornada 18:		Sporting		2-3		Eibar
+Temporada 2016_17 primera división. Jornada 18:		Granada			1-1		Osasuna
+Temporada 2016_17 primera división. Jornada 19:		Athletic		2-2		Atlético
+Temporada 2016_17 primera división. Jornada 19:		Betis			0-0		Sporting
+Temporada 2016_17 primera división. Jornada 19:		Espanyol		3-1		Granada
+Temporada 2016_17 primera división. Jornada 19:		R. Madrid		2-1		Málaga
+Temporada 2016_17 primera división. Jornada 19:		R. Sociedad		1-0		Celta
+Temporada 2016_17 primera división. Jornada 19:		Villarreal		0-2		Valencia
+Temporada 2016_17 primera división. Jornada 19:		Alavés			2-2		Leganés
+Temporada 2016_17 primera división. Jornada 19:		Osasuna			3-4		Sevilla
+Temporada 2016_17 primera división. Jornada 19:		Las Palmas		1-1		Deportivo
+Temporada 2016_17 primera división. Jornada 19:		Eibar			0-4		Barcelona
+Temporada 2016_17 primera división. Jornada 20:		Athletic		2-1		Sporting
+Temporada 2016_17 primera división. Jornada 20:		Betis			1-1		Barcelona
+Temporada 2016_17 primera división. Jornada 20:		Espanyol		3-1		Sevilla
+Temporada 2016_17 primera división. Jornada 20:		R. Madrid		3-0		R. Sociedad
+Temporada 2016_17 primera división. Jornada 20:		Villarreal		2-0		Granada
+Temporada 2016_17 primera división. Jornada 20:		Alavés			0-0		Atlético
+Temporada 2016_17 primera división. Jornada 20:		Osasuna			1-1		Málaga
+Temporada 2016_17 primera división. Jornada 20:		Las Palmas		3-1		Valencia
+Temporada 2016_17 primera división. Jornada 20:		Eibar			3-1		Deportivo
+Temporada 2016_17 primera división. Jornada 20:		Leganés			0-2		Celta
+Temporada 2016_17 primera división. Jornada 21:		Atlético		2-0		Leganés
+Temporada 2016_17 primera división. Jornada 21:		Barcelona		3-0		Athletic
+Temporada 2016_17 primera división. Jornada 21:		Celta			1-4		R. Madrid
+Temporada 2016_17 primera división. Jornada 21:		Deportivo		1-1		Betis
+Temporada 2016_17 primera división. Jornada 21:		R. Sociedad		3-2		Osasuna
+Temporada 2016_17 primera división. Jornada 21:		Valencia		0-4		Eibar
+Temporada 2016_17 primera división. Jornada 21:		Málaga			0-1		Espanyol
+Temporada 2016_17 primera división. Jornada 21:		Sevilla			0-0		Villarreal
+Temporada 2016_17 primera división. Jornada 21:		Sporting		2-4		Alavés
+Temporada 2016_17 primera división. Jornada 21:		Granada			1-0		Las Palmas
+Temporada 2016_17 primera división. Jornada 22:		Athletic		2-1		Deportivo
+Temporada 2016_17 primera división. Jornada 22:		Atlético		3-2		Celta
+Temporada 2016_17 primera división. Jornada 22:		Betis			0-0		Valencia
+Temporada 2016_17 primera división. Jornada 22:		Espanyol		1-2		R. Sociedad
+Temporada 2016_17 primera división. Jornada 22:		Villarreal		1-1		Málaga
+Temporada 2016_17 primera división. Jornada 22:		Alavés			0-6		Barcelona
+Temporada 2016_17 primera división. Jornada 22:		Osasuna			1-3		R. Madrid
+Temporada 2016_17 primera división. Jornada 22:		Las Palmas		0-1		Sevilla
+Temporada 2016_17 primera división. Jornada 22:		Eibar			4-0		Granada
+Temporada 2016_17 primera división. Jornada 22:		Leganés			0-2		Sporting
+Temporada 2016_17 primera división. Jornada 23:		Barcelona		2-1		Leganés
+Temporada 2016_17 primera división. Jornada 23:		Celta			3-0		Osasuna
+Temporada 2016_17 primera división. Jornada 23:		Deportivo		0-1		Alavés
+Temporada 2016_17 primera división. Jornada 23:		R. Madrid		2-0		Espanyol
+Temporada 2016_17 primera división. Jornada 23:		R. Sociedad		0-1		Villarreal
+Temporada 2016_17 primera división. Jornada 23:		Valencia		2-0		Athletic
+Temporada 2016_17 primera división. Jornada 23:		Málaga			2-1		Las Palmas
+Temporada 2016_17 primera división. Jornada 23:		Sevilla			2-0		Eibar
+Temporada 2016_17 primera división. Jornada 23:		Sporting		1-4		Atlético
+Temporada 2016_17 primera división. Jornada 23:		Granada			4-1		Betis
+Temporada 2016_17 primera división. Jornada 24:		Athletic		3-1		Granada
+Temporada 2016_17 primera división. Jornada 24:		Atlético		1-2		Barcelona
+Temporada 2016_17 primera división. Jornada 24:		Betis			1-2		Sevilla
+Temporada 2016_17 primera división. Jornada 24:		Espanyol		3-0		Osasuna
+Temporada 2016_17 primera división. Jornada 24:		Villarreal		2-3		R. Madrid
+Temporada 2016_17 primera división. Jornada 24:		Alavés			2-1		Valencia
+Temporada 2016_17 primera división. Jornada 24:		Las Palmas		0-1		R. Sociedad
+Temporada 2016_17 primera división. Jornada 24:		Eibar			3-0		Málaga
+Temporada 2016_17 primera división. Jornada 24:		Leganés			4-0		Deportivo
+Temporada 2016_17 primera división. Jornada 24:		Sporting		1-1		Celta
+Temporada 2016_17 primera división. Jornada 25:		Barcelona		6-1		Sporting
+Temporada 2016_17 primera división. Jornada 25:		Celta			2-2		Espanyol
+Temporada 2016_17 primera división. Jornada 25:		Deportivo		1-1		Atlético
+Temporada 2016_17 primera división. Jornada 25:		R. Madrid		3-3		Las Palmas
+Temporada 2016_17 primera división. Jornada 25:		R. Sociedad		2-2		Eibar
+Temporada 2016_17 primera división. Jornada 25:		Valencia		1-0		Leganés
+Temporada 2016_17 primera división. Jornada 25:		Málaga			1-2		Betis
+Temporada 2016_17 primera división. Jornada 25:		Sevilla			1-0		Athletic
+Temporada 2016_17 primera división. Jornada 25:		Osasuna			1-4		Villarreal
+Temporada 2016_17 primera división. Jornada 25:		Granada			2-1		Alavés
+Temporada 2016_17 primera división. Jornada 26:		Athletic		1-0		Málaga
+Temporada 2016_17 primera división. Jornada 26:		Atlético		3-0		Valencia
+Temporada 2016_17 primera división. Jornada 26:		Barcelona		5-0		Celta
+Temporada 2016_17 primera división. Jornada 26:		Betis			2-3		R. Sociedad
+Temporada 2016_17 primera división. Jornada 26:		Villarreal		2-0		Espanyol
+Temporada 2016_17 primera división. Jornada 26:		Alavés			1-1		Sevilla
+Temporada 2016_17 primera división. Jornada 26:		Las Palmas		5-2		Osasuna
+Temporada 2016_17 primera división. Jornada 26:		Eibar			1-4		R. Madrid
+Temporada 2016_17 primera división. Jornada 26:		Leganés			1-0		Granada
+Temporada 2016_17 primera división. Jornada 26:		Sporting		0-1		Deportivo
+Temporada 2016_17 primera división. Jornada 27:		Celta			0-1		Villarreal
+Temporada 2016_17 primera división. Jornada 27:		Deportivo		2-1		Barcelona
+Temporada 2016_17 primera división. Jornada 27:		Espanyol		4-3		Las Palmas
+Temporada 2016_17 primera división. Jornada 27:		R. Madrid		2-1		Betis
+Temporada 2016_17 primera división. Jornada 27:		R. Sociedad		0-2		Athletic
+Temporada 2016_17 primera división. Jornada 27:		Valencia		1-1		Sporting
+Temporada 2016_17 primera división. Jornada 27:		Málaga			1-2		Alavés
+Temporada 2016_17 primera división. Jornada 27:		Sevilla			1-1		Leganés
+Temporada 2016_17 primera división. Jornada 27:		Osasuna			1-1		Eibar
+Temporada 2016_17 primera división. Jornada 27:		Granada			0-1		Atlético
+Temporada 2016_17 primera división. Jornada 28:		Athletic		1-2		R. Madrid
+Temporada 2016_17 primera división. Jornada 28:		Atlético		3-1		Sevilla
+Temporada 2016_17 primera división. Jornada 28:		Barcelona		4-2		Valencia
+Temporada 2016_17 primera división. Jornada 28:		Betis			2-0		Osasuna
+Temporada 2016_17 primera división. Jornada 28:		Deportivo		0-1		Celta
+Temporada 2016_17 primera división. Jornada 28:		Alavés			1-0		R. Sociedad
+Temporada 2016_17 primera división. Jornada 28:		Las Palmas		1-0		Villarreal
+Temporada 2016_17 primera división. Jornada 28:		Eibar			1-1		Espanyol
+Temporada 2016_17 primera división. Jornada 28:		Leganés			0-0		Málaga
+Temporada 2016_17 primera división. Jornada 28:		Sporting		3-1		Granada
+Temporada 2016_17 primera división. Jornada 29:		Celta			3-1		Las Palmas
+Temporada 2016_17 primera división. Jornada 29:		Espanyol		2-1		Betis
+Temporada 2016_17 primera división. Jornada 29:		R. Madrid		3-0		Alavés
+Temporada 2016_17 primera división. Jornada 29:		R. Sociedad		1-1		Leganés
+Temporada 2016_17 primera división. Jornada 29:		Valencia		3-0		Deportivo
+Temporada 2016_17 primera división. Jornada 29:		Villarreal		2-3		Eibar
+Temporada 2016_17 primera división. Jornada 29:		Málaga			0-2		Atlético
+Temporada 2016_17 primera división. Jornada 29:		Sevilla			0-0		Sporting
+Temporada 2016_17 primera división. Jornada 29:		Osasuna			1-2		Athletic
+Temporada 2016_17 primera división. Jornada 29:		Granada			1-4		Barcelona
+Temporada 2016_17 primera división. Jornada 30:		Athletic		2-0		Espanyol
+Temporada 2016_17 primera división. Jornada 30:		Atlético		1-0		R. Sociedad
+Temporada 2016_17 primera división. Jornada 30:		Barcelona		3-0		Sevilla
+Temporada 2016_17 primera división. Jornada 30:		Betis			0-1		Villarreal
+Temporada 2016_17 primera división. Jornada 30:		Deportivo		0-0		Granada
+Temporada 2016_17 primera división. Jornada 30:		Valencia		3-2		Celta
+Temporada 2016_17 primera división. Jornada 30:		Alavés			0-1		Osasuna
+Temporada 2016_17 primera división. Jornada 30:		Eibar			3-1		Las Palmas
+Temporada 2016_17 primera división. Jornada 30:		Leganés			2-4		R. Madrid
+Temporada 2016_17 primera división. Jornada 30:		Sporting		0-1		Málaga
+Temporada 2016_17 primera división. Jornada 31:		Celta			0-2		Eibar
+Temporada 2016_17 primera división. Jornada 31:		Espanyol		1-0		Alavés
+Temporada 2016_17 primera división. Jornada 31:		R. Madrid		1-1		Atlético
+Temporada 2016_17 primera división. Jornada 31:		R. Sociedad		3-1		Sporting
+Temporada 2016_17 primera división. Jornada 31:		Villarreal		3-1		Athletic
+Temporada 2016_17 primera división. Jornada 31:		Málaga			2-0		Barcelona
+Temporada 2016_17 primera división. Jornada 31:		Sevilla			4-2		Deportivo
+Temporada 2016_17 primera división. Jornada 31:		Osasuna			2-1		Leganés
+Temporada 2016_17 primera división. Jornada 31:		Las Palmas		4-1		Betis
+Temporada 2016_17 primera división. Jornada 31:		Granada			1-3		Valencia
+Temporada 2016_17 primera división. Jornada 32:		Athletic		5-1		Las Palmas
+Temporada 2016_17 primera división. Jornada 32:		Atlético		3-0		Osasuna
+Temporada 2016_17 primera división. Jornada 32:		Barcelona		3-2		R. Sociedad
+Temporada 2016_17 primera división. Jornada 32:		Betis			2-0		Eibar
+Temporada 2016_17 primera división. Jornada 32:		Deportivo		2-0		Málaga
+Temporada 2016_17 primera división. Jornada 32:		Valencia		0-0		Sevilla
+Temporada 2016_17 primera división. Jornada 32:		Alavés			2-1		Villarreal
+Temporada 2016_17 primera división. Jornada 32:		Leganés			0-1		Espanyol
+Temporada 2016_17 primera división. Jornada 32:		Sporting		2-3		R. Madrid
+Temporada 2016_17 primera división. Jornada 32:		Granada			0-3		Celta
+Temporada 2016_17 primera división. Jornada 33:		Celta			0-1		Betis
+Temporada 2016_17 primera división. Jornada 33:		Espanyol		0-1		Atlético
+Temporada 2016_17 primera división. Jornada 33:		R. Madrid		2-3		Barcelona
+Temporada 2016_17 primera división. Jornada 33:		R. Sociedad		1-0		Deportivo
+Temporada 2016_17 primera división. Jornada 33:		Villarreal		2-1		Leganés
+Temporada 2016_17 primera división. Jornada 33:		Málaga			2-0		Valencia
+Temporada 2016_17 primera división. Jornada 33:		Sevilla			2-0		Granada
+Temporada 2016_17 primera división. Jornada 33:		Osasuna			2-2		Sporting
+Temporada 2016_17 primera división. Jornada 33:		Las Palmas		1-1		Alavés
+Temporada 2016_17 primera división. Jornada 33:		Eibar			0-1		Athletic
+Temporada 2016_17 primera división. Jornada 34:		Athletic		2-1		Betis
+Temporada 2016_17 primera división. Jornada 34:		Atlético		0-1		Villarreal
+Temporada 2016_17 primera división. Jornada 34:		Barcelona		7-1		Osasuna
+Temporada 2016_17 primera división. Jornada 34:		Deportivo		2-6		R. Madrid
+Temporada 2016_17 primera división. Jornada 34:		Valencia		2-3		R. Sociedad
+Temporada 2016_17 primera división. Jornada 34:		Alavés			0-0		Eibar
+Temporada 2016_17 primera división. Jornada 34:		Sevilla			2-1		Celta
+Temporada 2016_17 primera división. Jornada 34:		Leganés			3-0		Las Palmas
+Temporada 2016_17 primera división. Jornada 34:		Sporting		1-1		Espanyol
+Temporada 2016_17 primera división. Jornada 34:		Granada			0-2		Málaga
+Temporada 2016_17 primera división. Jornada 35:		Betis			1-4		Alavés
+Temporada 2016_17 primera división. Jornada 35:		Celta			0-3		Athletic
+Temporada 2016_17 primera división. Jornada 35:		Espanyol		0-3		Barcelona
+Temporada 2016_17 primera división. Jornada 35:		R. Madrid		2-1		Valencia
+Temporada 2016_17 primera división. Jornada 35:		R. Sociedad		2-1		Granada
+Temporada 2016_17 primera división. Jornada 35:		Villarreal		3-1		Sporting
+Temporada 2016_17 primera división. Jornada 35:		Málaga			4-2		Sevilla
+Temporada 2016_17 primera división. Jornada 35:		Osasuna			2-2		Deportivo
+Temporada 2016_17 primera división. Jornada 35:		Las Palmas		0-5		Atlético
+Temporada 2016_17 primera división. Jornada 35:		Eibar			2-0		Leganés
+Temporada 2016_17 primera división. Jornada 36:		Atlético		1-0		Eibar
+Temporada 2016_17 primera división. Jornada 36:		Barcelona		4-1		Villarreal
+Temporada 2016_17 primera división. Jornada 36:		Deportivo		1-2		Espanyol
+Temporada 2016_17 primera división. Jornada 36:		Valencia		4-1		Osasuna
+Temporada 2016_17 primera división. Jornada 36:		Alavés			1-0		Athletic
+Temporada 2016_17 primera división. Jornada 36:		Málaga			3-0		Celta
+Temporada 2016_17 primera división. Jornada 36:		Sevilla			1-1		R. Sociedad
+Temporada 2016_17 primera división. Jornada 36:		Leganés			4-0		Betis
+Temporada 2016_17 primera división. Jornada 36:		Sporting		1-0		Las Palmas
+Temporada 2016_17 primera división. Jornada 36:		Granada			0-4		R. Madrid
+Temporada 2016_17 primera división. Jornada 37:		Athletic		1-1		Leganés
+Temporada 2016_17 primera división. Jornada 37:		Betis			1-1		Atlético
+Temporada 2016_17 primera división. Jornada 37:		Espanyol		0-1		Valencia
+Temporada 2016_17 primera división. Jornada 37:		R. Madrid		4-1		Sevilla
+Temporada 2016_17 primera división. Jornada 37:		R. Sociedad		2-2		Málaga
+Temporada 2016_17 primera división. Jornada 37:		Villarreal		0-0		Deportivo
+Temporada 2016_17 primera división. Jornada 37:		Alavés			3-1		Celta
+Temporada 2016_17 primera división. Jornada 37:		Osasuna			2-1		Granada
+Temporada 2016_17 primera división. Jornada 37:		Las Palmas		1-4		Barcelona
+Temporada 2016_17 primera división. Jornada 37:		Eibar			0-1		Sporting
+Temporada 2016_17 primera división. Jornada 38:		Atlético		3-1		Athletic
+Temporada 2016_17 primera división. Jornada 38:		Barcelona		4-2		Eibar
+Temporada 2016_17 primera división. Jornada 38:		Celta			2-2		R. Sociedad
+Temporada 2016_17 primera división. Jornada 38:		Deportivo		3-0		Las Palmas
+Temporada 2016_17 primera división. Jornada 38:		Valencia		1-3		Villarreal
+Temporada 2016_17 primera división. Jornada 38:		Málaga			0-2		R. Madrid
+Temporada 2016_17 primera división. Jornada 38:		Sevilla			5-0		Osasuna
+Temporada 2016_17 primera división. Jornada 38:		Leganés			1-1		Alavés
+Temporada 2016_17 primera división. Jornada 38:		Sporting		2-2		Betis
+Temporada 2016_17 primera división. Jornada 38:		Granada			1-2		Espanyol
+Temporada 2016_17 segunda división. Jornada 1:		Valladolid		1-0		Real Oviedo
+Temporada 2016_17 segunda división. Jornada 1:		Zaragoza		3-1		UCAM
+Temporada 2016_17 segunda división. Jornada 1:		Mallorca		0-1		Reus
+Temporada 2016_17 segunda división. Jornada 1:		Numancia		0-1		Levante
+Temporada 2016_17 segunda división. Jornada 1:		Córdoba			1-0		Tenerife
+Temporada 2016_17 segunda división. Jornada 1:		Elche			2-1		Rayo
+Temporada 2016_17 segunda división. Jornada 1:		Alcorcón		0-0		Huesca
+Temporada 2016_17 segunda división. Jornada 1:		Almería			1-1		Cádiz
+Temporada 2016_17 segunda división. Jornada 1:		Sevilla At.		3-3		Girona
+Temporada 2016_17 segunda división. Jornada 1:		Gimnástic		2-2		Lugo
+Temporada 2016_17 segunda división. Jornada 1:		Mirandés		1-1		Getafe
+Temporada 2016_17 segunda división. Jornada 2:		Real Oviedo		2-0		Almería
+Temporada 2016_17 segunda división. Jornada 2:		Tenerife		1-1		Sevilla At.
+Temporada 2016_17 segunda división. Jornada 2:		Rayo			0-0		Valladolid
+Temporada 2016_17 segunda división. Jornada 2:		Getafe			0-0		Numancia
+Temporada 2016_17 segunda división. Jornada 2:		Levante			2-0		Alcorcón
+Temporada 2016_17 segunda división. Jornada 2:		Lugo			3-3		Zaragoza
+Temporada 2016_17 segunda división. Jornada 2:		Huesca			1-1		Gimnástic
+Temporada 2016_17 segunda división. Jornada 2:		Cádiz			1-1		Mallorca
+Temporada 2016_17 segunda división. Jornada 2:		Reus			1-1		Mirandés
+Temporada 2016_17 segunda división. Jornada 2:		Girona			3-1		Elche
+Temporada 2016_17 segunda división. Jornada 2:		UCAM			1-1		Córdoba
+Temporada 2016_17 segunda división. Jornada 3:		Valladolid		2-1		Girona
+Temporada 2016_17 segunda división. Jornada 3:		Zaragoza		1-0		Huesca
+Temporada 2016_17 segunda división. Jornada 3:		Mallorca		0-0		Real Oviedo
+Temporada 2016_17 segunda división. Jornada 3:		Numancia		1-1		Alcorcón
+Temporada 2016_17 segunda división. Jornada 3:		Córdoba			3-3		Lugo
+Temporada 2016_17 segunda división. Jornada 3:		Elche			3-1		Tenerife
+Temporada 2016_17 segunda división. Jornada 3:		Getafe			1-1		Reus
+Temporada 2016_17 segunda división. Jornada 3:		Almería			3-0		Rayo
+Temporada 2016_17 segunda división. Jornada 3:		Sevilla At.		1-1		UCAM
+Temporada 2016_17 segunda división. Jornada 3:		Gimnástic		1-1		Levante
+Temporada 2016_17 segunda división. Jornada 3:		Mirandés		3-2		Cádiz
+Temporada 2016_17 segunda división. Jornada 4:		Real Oviedo		0-0		Mirandés
+Temporada 2016_17 segunda división. Jornada 4:		Tenerife		1-0		Valladolid
+Temporada 2016_17 segunda división. Jornada 4:		Rayo			1-0		Mallorca
+Temporada 2016_17 segunda división. Jornada 4:		Levante			4-2		Zaragoza
+Temporada 2016_17 segunda división. Jornada 4:		Alcorcón		1-0		Gimnástic
+Temporada 2016_17 segunda división. Jornada 4:		Lugo			1-0		Sevilla At.
+Temporada 2016_17 segunda división. Jornada 4:		Huesca			3-0		Córdoba
+Temporada 2016_17 segunda división. Jornada 4:		Cádiz			3-0		Getafe
+Temporada 2016_17 segunda división. Jornada 4:		Reus			1-1		Numancia
+Temporada 2016_17 segunda división. Jornada 4:		Girona			3-3		Almería
+Temporada 2016_17 segunda división. Jornada 4:		UCAM			1-1		Elche
+Temporada 2016_17 segunda división. Jornada 5:		Valladolid		0-1		UCAM
+Temporada 2016_17 segunda división. Jornada 5:		Zaragoza		2-0		Alcorcón
+Temporada 2016_17 segunda división. Jornada 5:		Mallorca		1-0		Girona
+Temporada 2016_17 segunda división. Jornada 5:		Numancia		1-0		Gimnástic
+Temporada 2016_17 segunda división. Jornada 5:		Córdoba			1-0		Levante
+Temporada 2016_17 segunda división. Jornada 5:		Elche			0-3		Lugo
+Temporada 2016_17 segunda división. Jornada 5:		Getafe			2-1		Real Oviedo
+Temporada 2016_17 segunda división. Jornada 5:		Almería			0-1		Tenerife
+Temporada 2016_17 segunda división. Jornada 5:		Sevilla At.		2-0		Huesca
+Temporada 2016_17 segunda división. Jornada 5:		Reus			1-0		Cádiz
+Temporada 2016_17 segunda división. Jornada 5:		Mirandés		2-1		Rayo
+Temporada 2016_17 segunda división. Jornada 6:		Real Oviedo		0-1		Reus
+Temporada 2016_17 segunda división. Jornada 6:		Tenerife		0-0		Mallorca
+Temporada 2016_17 segunda división. Jornada 6:		Rayo			2-0		Getafe
+Temporada 2016_17 segunda división. Jornada 6:		Levante			1-0		Sevilla At.
+Temporada 2016_17 segunda división. Jornada 6:		Alcorcón		0-1		Córdoba
+Temporada 2016_17 segunda división. Jornada 6:		Lugo			1-0		Valladolid
+Temporada 2016_17 segunda división. Jornada 6:		Huesca			0-3		Elche
+Temporada 2016_17 segunda división. Jornada 6:		Cádiz			1-0		Numancia
+Temporada 2016_17 segunda división. Jornada 6:		Gimnástic		0-0		Zaragoza
+Temporada 2016_17 segunda división. Jornada 6:		Girona			1-1		Mirandés
+Temporada 2016_17 segunda división. Jornada 6:		UCAM			4-0		Almería
+Temporada 2016_17 segunda división. Jornada 7:		Valladolid		1-2		Huesca
+Temporada 2016_17 segunda división. Jornada 7:		Mallorca		0-0		UCAM
+Temporada 2016_17 segunda división. Jornada 7:		Numancia		2-1		Zaragoza
+Temporada 2016_17 segunda división. Jornada 7:		Córdoba			2-0		Gimnástic
+Temporada 2016_17 segunda división. Jornada 7:		Elche			0-1		Levante
+Temporada 2016_17 segunda división. Jornada 7:		Getafe			0-2		Girona
+Temporada 2016_17 segunda división. Jornada 7:		Almería			0-0		Lugo
+Temporada 2016_17 segunda división. Jornada 7:		Cádiz			0-2		Real Oviedo
+Temporada 2016_17 segunda división. Jornada 7:		Sevilla At.		1-1		Alcorcón
+Temporada 2016_17 segunda división. Jornada 7:		Reus			1-1		Rayo
+Temporada 2016_17 segunda división. Jornada 7:		Mirandés		3-2		Tenerife
+Temporada 2016_17 segunda división. Jornada 8:		Real Oviedo		2-2		Numancia
+Temporada 2016_17 segunda división. Jornada 8:		Tenerife		0-0		Getafe
+Temporada 2016_17 segunda división. Jornada 8:		Zaragoza		1-1		Córdoba
+Temporada 2016_17 segunda división. Jornada 8:		Rayo			3-0		Cádiz
+Temporada 2016_17 segunda división. Jornada 8:		Levante			3-2		Valladolid
+Temporada 2016_17 segunda división. Jornada 8:		Alcorcón		1-0		Elche
+Temporada 2016_17 segunda división. Jornada 8:		Lugo			3-1		Mallorca
+Temporada 2016_17 segunda división. Jornada 8:		Huesca			2-0		Almería
+Temporada 2016_17 segunda división. Jornada 8:		Gimnástic		1-1		Sevilla At.
+Temporada 2016_17 segunda división. Jornada 8:		Girona			1-0		Reus
+Temporada 2016_17 segunda división. Jornada 8:		UCAM			2-2		Mirandés
+Temporada 2016_17 segunda división. Jornada 9:		Real Oviedo		2-0		Rayo
+Temporada 2016_17 segunda división. Jornada 9:		Valladolid		2-0		Alcorcón
+Temporada 2016_17 segunda división. Jornada 9:		Mallorca		3-0		Huesca
+Temporada 2016_17 segunda división. Jornada 9:		Numancia		1-1		Córdoba
+Temporada 2016_17 segunda división. Jornada 9:		Elche			4-4		Gimnástic
+Temporada 2016_17 segunda división. Jornada 9:		Getafe			2-0		UCAM
+Temporada 2016_17 segunda división. Jornada 9:		Almería			2-2		Levante
+Temporada 2016_17 segunda división. Jornada 9:		Cádiz			0-0		Girona
+Temporada 2016_17 segunda división. Jornada 9:		Sevilla At.		2-1		Zaragoza
+Temporada 2016_17 segunda división. Jornada 9:		Reus			0-0		Tenerife
+Temporada 2016_17 segunda división. Jornada 9:		Mirandés		2-2		Lugo
+Temporada 2016_17 segunda división. Jornada 10:		Tenerife		1-1		Cádiz
+Temporada 2016_17 segunda división. Jornada 10:		Zaragoza		1-3		Elche
+Temporada 2016_17 segunda división. Jornada 10:		Rayo			3-3		Numancia
+Temporada 2016_17 segunda división. Jornada 10:		Córdoba			0-1		Sevilla At.
+Temporada 2016_17 segunda división. Jornada 10:		Levante			2-1		Mallorca
+Temporada 2016_17 segunda división. Jornada 10:		Alcorcón		0-0		Almería
+Temporada 2016_17 segunda división. Jornada 10:		Lugo			0-1		Getafe
+Temporada 2016_17 segunda división. Jornada 10:		Huesca			3-0		Mirandés
+Temporada 2016_17 segunda división. Jornada 10:		Gimnástic		1-2		Valladolid
+Temporada 2016_17 segunda división. Jornada 10:		Girona			0-0		Real Oviedo
+Temporada 2016_17 segunda división. Jornada 10:		UCAM			0-2		Reus
+Temporada 2016_17 segunda división. Jornada 11:		Real Oviedo		2-0		Tenerife
+Temporada 2016_17 segunda división. Jornada 11:		Valladolid		0-0		Zaragoza
+Temporada 2016_17 segunda división. Jornada 11:		Mallorca		1-0		Alcorcón
+Temporada 2016_17 segunda división. Jornada 11:		Rayo			1-0		Girona
+Temporada 2016_17 segunda división. Jornada 11:		Numancia		1-2		Sevilla At.
+Temporada 2016_17 segunda división. Jornada 11:		Elche			1-1		Córdoba
+Temporada 2016_17 segunda división. Jornada 11:		Getafe			1-1		Huesca
+Temporada 2016_17 segunda división. Jornada 11:		Almería			3-0		Gimnástic
+Temporada 2016_17 segunda división. Jornada 11:		Cádiz			2-2		UCAM
+Temporada 2016_17 segunda división. Jornada 11:		Reus			2-1		Lugo
+Temporada 2016_17 segunda división. Jornada 11:		Mirandés		0-3		Levante
+Temporada 2016_17 segunda división. Jornada 12:		Tenerife		3-2		Rayo
+Temporada 2016_17 segunda división. Jornada 12:		Zaragoza		2-1		Almería
+Temporada 2016_17 segunda división. Jornada 12:		Córdoba			1-1		Valladolid
+Temporada 2016_17 segunda división. Jornada 12:		Levante			1-1		Getafe
+Temporada 2016_17 segunda división. Jornada 12:		Alcorcón		1-0		Mirandés
+Temporada 2016_17 segunda división. Jornada 12:		Lugo			0-1		Cádiz
+Temporada 2016_17 segunda división. Jornada 12:		Huesca			2-1		Reus
+Temporada 2016_17 segunda división. Jornada 12:		Sevilla At.		2-0		Elche
+Temporada 2016_17 segunda división. Jornada 12:		Gimnástic		2-2		Mallorca
+Temporada 2016_17 segunda división. Jornada 12:		Girona			3-0		Numancia
+Temporada 2016_17 segunda división. Jornada 12:		UCAM			0-1		Real Oviedo
+Temporada 2016_17 segunda división. Jornada 13:		Real Oviedo		1-1		Lugo
+Temporada 2016_17 segunda división. Jornada 13:		Valladolid		2-0		Sevilla At.
+Temporada 2016_17 segunda división. Jornada 13:		Mallorca		2-2		Zaragoza
+Temporada 2016_17 segunda división. Jornada 13:		Rayo			0-1		UCAM
+Temporada 2016_17 segunda división. Jornada 13:		Numancia		2-2		Elche
+Temporada 2016_17 segunda división. Jornada 13:		Getafe			1-0		Alcorcón
+Temporada 2016_17 segunda división. Jornada 13:		Almería			3-1		Córdoba
+Temporada 2016_17 segunda división. Jornada 13:		Cádiz			1-0		Huesca
+Temporada 2016_17 segunda división. Jornada 13:		Reus			0-1		Levante
+Temporada 2016_17 segunda división. Jornada 13:		Mirandés		0-1		Gimnástic
+Temporada 2016_17 segunda división. Jornada 13:		Girona			1-1		Tenerife
+Temporada 2016_17 segunda división. Jornada 14:		Tenerife		1-1		Numancia
+Temporada 2016_17 segunda división. Jornada 14:		Zaragoza		2-0		Mirandés
+Temporada 2016_17 segunda división. Jornada 14:		Córdoba			0-2		Mallorca
+Temporada 2016_17 segunda división. Jornada 14:		Elche			2-0		Valladolid
+Temporada 2016_17 segunda división. Jornada 14:		Levante			0-0		Cádiz
+Temporada 2016_17 segunda división. Jornada 14:		Alcorcón		1-0		Reus
+Temporada 2016_17 segunda división. Jornada 14:		Lugo			1-0		Rayo
+Temporada 2016_17 segunda división. Jornada 14:		Huesca			4-0		Real Oviedo
+Temporada 2016_17 segunda división. Jornada 14:		Sevilla At.		1-0		Almería
+Temporada 2016_17 segunda división. Jornada 14:		Gimnástic		1-0		Getafe
+Temporada 2016_17 segunda división. Jornada 14:		UCAM			0-1		Girona
+Temporada 2016_17 segunda división. Jornada 15:		Real Oviedo		2-0		Levante
+Temporada 2016_17 segunda división. Jornada 15:		Tenerife		2-1		UCAM
+Temporada 2016_17 segunda división. Jornada 15:		Mallorca		2-2		Sevilla At.
+Temporada 2016_17 segunda división. Jornada 15:		Rayo			2-2		Huesca
+Temporada 2016_17 segunda división. Jornada 15:		Numancia		2-1		Valladolid
+Temporada 2016_17 segunda división. Jornada 15:		Getafe			1-0		Zaragoza
+Temporada 2016_17 segunda división. Jornada 15:		Almería			2-1		Elche
+Temporada 2016_17 segunda división. Jornada 15:		Cádiz			4-1		Alcorcón
+Temporada 2016_17 segunda división. Jornada 15:		Reus			1-0		Gimnástic
+Temporada 2016_17 segunda división. Jornada 15:		Mirandés		1-1		Córdoba
+Temporada 2016_17 segunda división. Jornada 15:		Girona			3-1		Lugo
+Temporada 2016_17 segunda división. Jornada 16:		Valladolid		0-0		Almería
+Temporada 2016_17 segunda división. Jornada 16:		Zaragoza		2-2		Reus
+Temporada 2016_17 segunda división. Jornada 16:		Córdoba			1-3		Getafe
+Temporada 2016_17 segunda división. Jornada 16:		Elche			1-0		Mallorca
+Temporada 2016_17 segunda división. Jornada 16:		Levante			1-0		Rayo
+Temporada 2016_17 segunda división. Jornada 16:		Alcorcón		5-1		Real Oviedo
+Temporada 2016_17 segunda división. Jornada 16:		Lugo			1-3		Tenerife
+Temporada 2016_17 segunda división. Jornada 16:		Huesca			1-2		Girona
+Temporada 2016_17 segunda división. Jornada 16:		Sevilla At.		1-0		Mirandés
+Temporada 2016_17 segunda división. Jornada 16:		Gimnástic		1-0		Cádiz
+Temporada 2016_17 segunda división. Jornada 16:		UCAM			3-2		Numancia
+Temporada 2016_17 segunda división. Jornada 17:		Real Oviedo		1-0		Gimnástic
+Temporada 2016_17 segunda división. Jornada 17:		Tenerife		1-1		Huesca
+Temporada 2016_17 segunda división. Jornada 17:		Mallorca		0-3		Valladolid
+Temporada 2016_17 segunda división. Jornada 17:		Rayo			2-0		Alcorcón
+Temporada 2016_17 segunda división. Jornada 17:		Numancia		1-0		Almería
+Temporada 2016_17 segunda división. Jornada 17:		Getafe			2-0		Sevilla At.
+Temporada 2016_17 segunda división. Jornada 17:		Cádiz			3-0		Zaragoza
+Temporada 2016_17 segunda división. Jornada 17:		Reus			1-2		Córdoba
+Temporada 2016_17 segunda división. Jornada 17:		Mirandés		1-0		Elche
+Temporada 2016_17 segunda división. Jornada 17:		Girona			2-1		Levante
+Temporada 2016_17 segunda división. Jornada 17:		UCAM			1-2		Lugo
+Temporada 2016_17 segunda división. Jornada 18:		Valladolid		5-0		Mirandés
+Temporada 2016_17 segunda división. Jornada 18:		Zaragoza		2-1		Real Oviedo
+Temporada 2016_17 segunda división. Jornada 18:		Córdoba			1-3		Cádiz
+Temporada 2016_17 segunda división. Jornada 18:		Elche			2-2		Getafe
+Temporada 2016_17 segunda división. Jornada 18:		Levante			1-0		Tenerife
+Temporada 2016_17 segunda división. Jornada 18:		Alcorcón		2-1		Girona
+Temporada 2016_17 segunda división. Jornada 18:		Lugo			3-1		Numancia
+Temporada 2016_17 segunda división. Jornada 18:		Huesca			5-2		UCAM
+Temporada 2016_17 segunda división. Jornada 18:		Almería			2-1		Mallorca
+Temporada 2016_17 segunda división. Jornada 18:		Sevilla At.		0-1		Reus
+Temporada 2016_17 segunda división. Jornada 18:		Gimnástic		0-1		Rayo
+Temporada 2016_17 segunda división. Jornada 19:		Real Oviedo		1-2		Córdoba
+Temporada 2016_17 segunda división. Jornada 19:		Tenerife		2-0		Alcorcón
+Temporada 2016_17 segunda división. Jornada 19:		Rayo			1-2		Zaragoza
+Temporada 2016_17 segunda división. Jornada 19:		Numancia		3-1		Mallorca
+Temporada 2016_17 segunda división. Jornada 19:		Getafe			3-1		Valladolid
+Temporada 2016_17 segunda división. Jornada 19:		Lugo			1-1		Huesca
+Temporada 2016_17 segunda división. Jornada 19:		Cádiz			4-1		Sevilla At.
+Temporada 2016_17 segunda división. Jornada 19:		Reus			0-1		Elche
+Temporada 2016_17 segunda división. Jornada 19:		Mirandés		2-1		Almería
+Temporada 2016_17 segunda división. Jornada 19:		Girona			4-2		Gimnástic
+Temporada 2016_17 segunda división. Jornada 19:		UCAM			0-2		Levante
+Temporada 2016_17 segunda división. Jornada 20:		Valladolid		1-0		Reus
+Temporada 2016_17 segunda división. Jornada 20:		Zaragoza		0-2		Girona
+Temporada 2016_17 segunda división. Jornada 20:		Mallorca		2-0		Mirandés
+Temporada 2016_17 segunda división. Jornada 20:		Numancia		0-0		Huesca
+Temporada 2016_17 segunda división. Jornada 20:		Córdoba			0-0		Rayo
+Temporada 2016_17 segunda división. Jornada 20:		Elche			2-3		Cádiz
+Temporada 2016_17 segunda división. Jornada 20:		Levante			1-0		Lugo
+Temporada 2016_17 segunda división. Jornada 20:		Alcorcón		0-0		UCAM
+Temporada 2016_17 segunda división. Jornada 20:		Almería			0-1		Getafe
+Temporada 2016_17 segunda división. Jornada 20:		Sevilla At.		5-3		Real Oviedo
+Temporada 2016_17 segunda división. Jornada 20:		Gimnástic		1-1		Tenerife
+Temporada 2016_17 segunda división. Jornada 21:		Real Oviedo		2-1		Elche
+Temporada 2016_17 segunda división. Jornada 21:		Tenerife		1-0		Zaragoza
+Temporada 2016_17 segunda división. Jornada 21:		Rayo			1-1		Sevilla At.
+Temporada 2016_17 segunda división. Jornada 21:		Getafe			1-1		Mallorca
+Temporada 2016_17 segunda división. Jornada 21:		Lugo			1-0		Alcorcón
+Temporada 2016_17 segunda división. Jornada 21:		Huesca			0-2		Levante
+Temporada 2016_17 segunda división. Jornada 21:		Cádiz			0-1		Valladolid
+Temporada 2016_17 segunda división. Jornada 21:		Reus			1-0		Almería
+Temporada 2016_17 segunda división. Jornada 21:		Mirandés		0-3		Numancia
+Temporada 2016_17 segunda división. Jornada 21:		Girona			2-0		Córdoba
+Temporada 2016_17 segunda división. Jornada 21:		UCAM			1-1		Gimnástic
+Temporada 2016_17 segunda división. Jornada 22:		Real Oviedo		1-0		Valladolid
+Temporada 2016_17 segunda división. Jornada 22:		Tenerife		2-0		Córdoba
+Temporada 2016_17 segunda división. Jornada 22:		Rayo			1-1		Elche
+Temporada 2016_17 segunda división. Jornada 22:		Getafe			1-1		Mirandés
+Temporada 2016_17 segunda división. Jornada 22:		Levante			1-0		Numancia
+Temporada 2016_17 segunda división. Jornada 22:		Lugo			2-3		Gimnástic
+Temporada 2016_17 segunda división. Jornada 22:		Huesca			0-1		Alcorcón
+Temporada 2016_17 segunda división. Jornada 22:		Cádiz			1-0		Almería
+Temporada 2016_17 segunda división. Jornada 22:		Reus			1-1		Mallorca
+Temporada 2016_17 segunda división. Jornada 22:		Girona			2-0		Sevilla At.
+Temporada 2016_17 segunda división. Jornada 22:		UCAM			1-0		Zaragoza
+Temporada 2016_17 segunda división. Jornada 23:		Valladolid		2-1		Rayo
+Temporada 2016_17 segunda división. Jornada 23:		Zaragoza		1-1		Lugo
+Temporada 2016_17 segunda división. Jornada 23:		Mallorca		0-0		Cádiz
+Temporada 2016_17 segunda división. Jornada 23:		Numancia		2-0		Getafe
+Temporada 2016_17 segunda división. Jornada 23:		Córdoba			1-1		UCAM
+Temporada 2016_17 segunda división. Jornada 23:		Elche			1-0		Girona
+Temporada 2016_17 segunda división. Jornada 23:		Alcorcón		2-0		Levante
+Temporada 2016_17 segunda división. Jornada 23:		Almería			3-0		Real Oviedo
+Temporada 2016_17 segunda división. Jornada 23:		Sevilla At.		0-0		Tenerife
+Temporada 2016_17 segunda división. Jornada 23:		Gimnástic		0-0		Huesca
+Temporada 2016_17 segunda división. Jornada 23:		Mirandés		1-1		Reus
+Temporada 2016_17 segunda división. Jornada 24:		Real Oviedo		2-1		Mallorca
+Temporada 2016_17 segunda división. Jornada 24:		Tenerife		2-0		Elche
+Temporada 2016_17 segunda división. Jornada 24:		Rayo			1-0		Almería
+Temporada 2016_17 segunda división. Jornada 24:		Levante			2-1		Gimnástic
+Temporada 2016_17 segunda división. Jornada 24:		Alcorcón		2-3		Numancia
+Temporada 2016_17 segunda división. Jornada 24:		Lugo			1-0		Córdoba
+Temporada 2016_17 segunda división. Jornada 24:		Huesca			2-3		Zaragoza
+Temporada 2016_17 segunda división. Jornada 24:		Cádiz			2-1		Mirandés
+Temporada 2016_17 segunda división. Jornada 24:		Reus			1-1		Getafe
+Temporada 2016_17 segunda división. Jornada 24:		Girona			2-1		Valladolid
+Temporada 2016_17 segunda división. Jornada 24:		UCAM			1-0		Sevilla At.
+Temporada 2016_17 segunda división. Jornada 25:		Valladolid		0-0		Tenerife
+Temporada 2016_17 segunda división. Jornada 25:		Zaragoza		0-1		Levante
+Temporada 2016_17 segunda división. Jornada 25:		Mallorca		2-1		Rayo
+Temporada 2016_17 segunda división. Jornada 25:		Numancia		1-0		Reus
+Temporada 2016_17 segunda división. Jornada 25:		Córdoba			0-2		Huesca
+Temporada 2016_17 segunda división. Jornada 25:		Elche			1-1		UCAM
+Temporada 2016_17 segunda división. Jornada 25:		Getafe			3-2		Cádiz
+Temporada 2016_17 segunda división. Jornada 25:		Almería			0-0		Girona
+Temporada 2016_17 segunda división. Jornada 25:		Sevilla At.		1-1		Lugo
+Temporada 2016_17 segunda división. Jornada 25:		Gimnástic		1-1		Alcorcón
+Temporada 2016_17 segunda división. Jornada 25:		Mirandés		0-2		Real Oviedo
+Temporada 2016_17 segunda división. Jornada 26:		Real Oviedo		2-1		Getafe
+Temporada 2016_17 segunda división. Jornada 26:		Tenerife		1-0		Almería
+Temporada 2016_17 segunda división. Jornada 26:		Rayo			1-2		Mirandés
+Temporada 2016_17 segunda división. Jornada 26:		Levante			3-1		Córdoba
+Temporada 2016_17 segunda división. Jornada 26:		Alcorcón		1-1		Zaragoza
+Temporada 2016_17 segunda división. Jornada 26:		Lugo			1-2		Elche
+Temporada 2016_17 segunda división. Jornada 26:		Huesca			2-1		Sevilla At.
+Temporada 2016_17 segunda división. Jornada 26:		Cádiz			0-0		Reus
+Temporada 2016_17 segunda división. Jornada 26:		Gimnástic		2-0		Numancia
+Temporada 2016_17 segunda división. Jornada 26:		Girona			1-0		Mallorca
+Temporada 2016_17 segunda división. Jornada 26:		UCAM			1-3		Valladolid
+Temporada 2016_17 segunda división. Jornada 27:		Valladolid		1-1		Lugo
+Temporada 2016_17 segunda división. Jornada 27:		Zaragoza		1-2		Gimnástic
+Temporada 2016_17 segunda división. Jornada 27:		Mallorca		1-4		Tenerife
+Temporada 2016_17 segunda división. Jornada 27:		Numancia		0-3		Cádiz
+Temporada 2016_17 segunda división. Jornada 27:		Córdoba			1-0		Alcorcón
+Temporada 2016_17 segunda división. Jornada 27:		Elche			1-1		Huesca
+Temporada 2016_17 segunda división. Jornada 27:		Getafe			1-0		Rayo
+Temporada 2016_17 segunda división. Jornada 27:		Almería			2-3		UCAM
+Temporada 2016_17 segunda división. Jornada 27:		Sevilla At.		1-1		Levante
+Temporada 2016_17 segunda división. Jornada 27:		Reus			1-1		Real Oviedo
+Temporada 2016_17 segunda división. Jornada 27:		Mirandés		0-2		Girona
+Temporada 2016_17 segunda división. Jornada 28:		Real Oviedo		2-1		Cádiz
+Temporada 2016_17 segunda división. Jornada 28:		Tenerife		1-1		Mirandés
+Temporada 2016_17 segunda división. Jornada 28:		Zaragoza		3-0		Numancia
+Temporada 2016_17 segunda división. Jornada 28:		Rayo			0-0		Reus
+Temporada 2016_17 segunda división. Jornada 28:		Levante			2-1		Elche
+Temporada 2016_17 segunda división. Jornada 28:		Alcorcón		0-0		Sevilla At.
+Temporada 2016_17 segunda división. Jornada 28:		Lugo			1-2		Almería
+Temporada 2016_17 segunda división. Jornada 28:		Huesca			1-0		Valladolid
+Temporada 2016_17 segunda división. Jornada 28:		Gimnástic		2-1		Córdoba
+Temporada 2016_17 segunda división. Jornada 28:		Girona			5-1		Getafe
+Temporada 2016_17 segunda división. Jornada 28:		UCAM			1-1		Mallorca
+Temporada 2016_17 segunda división. Jornada 29:		Valladolid		0-4		Levante
+Temporada 2016_17 segunda división. Jornada 29:		Mallorca		1-1		Lugo
+Temporada 2016_17 segunda división. Jornada 29:		Numancia		0-0		Real Oviedo
+Temporada 2016_17 segunda división. Jornada 29:		Córdoba			2-1		Zaragoza
+Temporada 2016_17 segunda división. Jornada 29:		Elche			0-0		Alcorcón
+Temporada 2016_17 segunda división. Jornada 29:		Getafe			2-2		Tenerife
+Temporada 2016_17 segunda división. Jornada 29:		Almería			0-0		Huesca
+Temporada 2016_17 segunda división. Jornada 29:		Cádiz			1-0		Rayo
+Temporada 2016_17 segunda división. Jornada 29:		Sevilla At.		2-2		Gimnástic
+Temporada 2016_17 segunda división. Jornada 29:		Reus			1-2		Girona
+Temporada 2016_17 segunda división. Jornada 29:		Mirandés		1-1		UCAM
+Temporada 2016_17 segunda división. Jornada 30:		Tenerife		0-1		Reus
+Temporada 2016_17 segunda división. Jornada 30:		Zaragoza		1-2		Sevilla At.
+Temporada 2016_17 segunda división. Jornada 30:		Rayo			2-0		Real Oviedo
+Temporada 2016_17 segunda división. Jornada 30:		Córdoba			0-0		Numancia
+Temporada 2016_17 segunda división. Jornada 30:		Levante			1-0		Almería
+Temporada 2016_17 segunda división. Jornada 30:		Alcorcón		1-2		Valladolid
+Temporada 2016_17 segunda división. Jornada 30:		Lugo			2-1		Mirandés
+Temporada 2016_17 segunda división. Jornada 30:		Huesca			2-1		Mallorca
+Temporada 2016_17 segunda división. Jornada 30:		Gimnástic		1-3		Elche
+Temporada 2016_17 segunda división. Jornada 30:		Girona			1-2		Cádiz
+Temporada 2016_17 segunda división. Jornada 30:		UCAM			2-0		Getafe
+Temporada 2016_17 segunda división. Jornada 31:		Real Oviedo		2-0		Girona
+Temporada 2016_17 segunda división. Jornada 31:		Valladolid		1-2		Gimnástic
+Temporada 2016_17 segunda división. Jornada 31:		Mallorca		1-1		Levante
+Temporada 2016_17 segunda división. Jornada 31:		Numancia		0-0		Rayo
+Temporada 2016_17 segunda división. Jornada 31:		Elche			0-3		Zaragoza
+Temporada 2016_17 segunda división. Jornada 31:		Getafe			2-0		Lugo
+Temporada 2016_17 segunda división. Jornada 31:		Almería			3-1		Alcorcón
+Temporada 2016_17 segunda división. Jornada 31:		Cádiz			0-1		Tenerife
+Temporada 2016_17 segunda división. Jornada 31:		Sevilla At.		1-0		Córdoba
+Temporada 2016_17 segunda división. Jornada 31:		Reus			0-0		UCAM
+Temporada 2016_17 segunda división. Jornada 31:		Mirandés		1-3		Huesca
+Temporada 2016_17 segunda división. Jornada 32:		Tenerife		1-0		Real Oviedo
+Temporada 2016_17 segunda división. Jornada 32:		Zaragoza		1-1		Valladolid
+Temporada 2016_17 segunda división. Jornada 32:		Córdoba			1-0		Elche
+Temporada 2016_17 segunda división. Jornada 32:		Levante			2-1		Mirandés
+Temporada 2016_17 segunda división. Jornada 32:		Alcorcón		1-0		Mallorca
+Temporada 2016_17 segunda división. Jornada 32:		Lugo			1-0		Reus
+Temporada 2016_17 segunda división. Jornada 32:		Huesca			0-0		Getafe
+Temporada 2016_17 segunda división. Jornada 32:		Sevilla At.		1-1		Numancia
+Temporada 2016_17 segunda división. Jornada 32:		Gimnástic		0-1		Almería
+Temporada 2016_17 segunda división. Jornada 32:		Girona			1-3		Rayo
+Temporada 2016_17 segunda división. Jornada 32:		UCAM			1-1		Cádiz
+Temporada 2016_17 segunda división. Jornada 33:		Real Oviedo		2-0		UCAM
+Temporada 2016_17 segunda división. Jornada 33:		Valladolid		2-1		Córdoba
+Temporada 2016_17 segunda división. Jornada 33:		Mallorca		0-0		Gimnástic
+Temporada 2016_17 segunda división. Jornada 33:		Rayo			1-1		Tenerife
+Temporada 2016_17 segunda división. Jornada 33:		Numancia		0-2		Girona
+Temporada 2016_17 segunda división. Jornada 33:		Elche			3-2		Sevilla At.
+Temporada 2016_17 segunda división. Jornada 33:		Getafe			2-0		Levante
+Temporada 2016_17 segunda división. Jornada 33:		Almería			2-2		Zaragoza
+Temporada 2016_17 segunda división. Jornada 33:		Cádiz			1-1		Lugo
+Temporada 2016_17 segunda división. Jornada 33:		Reus			0-1		Huesca
+Temporada 2016_17 segunda división. Jornada 33:		Mirandés		2-0		Alcorcón
+Temporada 2016_17 segunda división. Jornada 34:		Tenerife		3-3		Girona
+Temporada 2016_17 segunda división. Jornada 34:		Zaragoza		1-0		Mallorca
+Temporada 2016_17 segunda división. Jornada 34:		Córdoba			1-0		Almería
+Temporada 2016_17 segunda división. Jornada 34:		Elche			1-3		Numancia
+Temporada 2016_17 segunda división. Jornada 34:		Levante			0-0		Reus
+Temporada 2016_17 segunda división. Jornada 34:		Alcorcón		0-3		Getafe
+Temporada 2016_17 segunda división. Jornada 34:		Lugo			2-1		Real Oviedo
+Temporada 2016_17 segunda división. Jornada 34:		Huesca			1-1		Cádiz
+Temporada 2016_17 segunda división. Jornada 34:		Sevilla At.		6-2		Valladolid
+Temporada 2016_17 segunda división. Jornada 34:		Gimnástic		4-1		Mirandés
+Temporada 2016_17 segunda división. Jornada 34:		UCAM			0-1		Rayo
+Temporada 2016_17 segunda división. Jornada 35:		Real Oviedo		1-1		Huesca
+Temporada 2016_17 segunda división. Jornada 35:		Valladolid		2-1		Elche
+Temporada 2016_17 segunda división. Jornada 35:		Mallorca		1-1		Córdoba
+Temporada 2016_17 segunda división. Jornada 35:		Rayo			2-0		Lugo
+Temporada 2016_17 segunda división. Jornada 35:		Numancia		1-1		Tenerife
+Temporada 2016_17 segunda división. Jornada 35:		Getafe			1-1		Gimnástic
+Temporada 2016_17 segunda división. Jornada 35:		Almería			2-1		Sevilla At.
+Temporada 2016_17 segunda división. Jornada 35:		Cádiz			1-1		Levante
+Temporada 2016_17 segunda división. Jornada 35:		Reus			0-0		Alcorcón
+Temporada 2016_17 segunda división. Jornada 35:		Mirandés		0-1		Zaragoza
+Temporada 2016_17 segunda división. Jornada 35:		Girona			1-2		UCAM
+Temporada 2016_17 segunda división. Jornada 36:		Valladolid		1-1		Numancia
+Temporada 2016_17 segunda división. Jornada 36:		Zaragoza		1-2		Getafe
+Temporada 2016_17 segunda división. Jornada 36:		Córdoba			1-1		Mirandés
+Temporada 2016_17 segunda división. Jornada 36:		Elche			2-3		Almería
+Temporada 2016_17 segunda división. Jornada 36:		Levante			1-0		Real Oviedo
+Temporada 2016_17 segunda división. Jornada 36:		Alcorcón		0-2		Cádiz
+Temporada 2016_17 segunda división. Jornada 36:		Lugo			1-2		Girona
+Temporada 2016_17 segunda división. Jornada 36:		Huesca			2-0		Rayo
+Temporada 2016_17 segunda división. Jornada 36:		Sevilla At.		2-3		Mallorca
+Temporada 2016_17 segunda división. Jornada 36:		Gimnástic		0-1		Reus
+Temporada 2016_17 segunda división. Jornada 36:		UCAM			1-0		Tenerife
+Temporada 2016_17 segunda división. Jornada 37:		Real Oviedo		0-1		Alcorcón
+Temporada 2016_17 segunda división. Jornada 37:		Tenerife		2-1		Lugo
+Temporada 2016_17 segunda división. Jornada 37:		Mallorca		1-0		Elche
+Temporada 2016_17 segunda división. Jornada 37:		Rayo			2-1		Levante
+Temporada 2016_17 segunda división. Jornada 37:		Numancia		1-0		UCAM
+Temporada 2016_17 segunda división. Jornada 37:		Getafe			2-0		Córdoba
+Temporada 2016_17 segunda división. Jornada 37:		Almería			0-3		Valladolid
+Temporada 2016_17 segunda división. Jornada 37:		Cádiz			0-0		Gimnástic
+Temporada 2016_17 segunda división. Jornada 37:		Reus			1-0		Zaragoza
+Temporada 2016_17 segunda división. Jornada 37:		Mirandés		0-1		Sevilla At.
+Temporada 2016_17 segunda división. Jornada 37:		Girona			3-1		Huesca
+Temporada 2016_17 segunda división. Jornada 38:		Valladolid		2-1		Mallorca
+Temporada 2016_17 segunda división. Jornada 38:		Zaragoza		1-1		Cádiz
+Temporada 2016_17 segunda división. Jornada 38:		Córdoba			1-0		Reus
+Temporada 2016_17 segunda división. Jornada 38:		Elche			0-1		Mirandés
+Temporada 2016_17 segunda división. Jornada 38:		Levante			2-1		Girona
+Temporada 2016_17 segunda división. Jornada 38:		Alcorcón		2-0		Rayo
+Temporada 2016_17 segunda división. Jornada 38:		Lugo			0-0		UCAM
+Temporada 2016_17 segunda división. Jornada 38:		Huesca			2-2		Tenerife
+Temporada 2016_17 segunda división. Jornada 38:		Almería			2-0		Numancia
+Temporada 2016_17 segunda división. Jornada 38:		Sevilla At.		2-1		Getafe
+Temporada 2016_17 segunda división. Jornada 38:		Gimnástic		2-2		Real Oviedo
+Temporada 2016_17 segunda división. Jornada 39:		Real Oviedo		0-0		Zaragoza
+Temporada 2016_17 segunda división. Jornada 39:		Tenerife		0-0		Levante
+Temporada 2016_17 segunda división. Jornada 39:		Mallorca		1-0		Almería
+Temporada 2016_17 segunda división. Jornada 39:		Rayo			2-0		Gimnástic
+Temporada 2016_17 segunda división. Jornada 39:		Numancia		0-1		Lugo
+Temporada 2016_17 segunda división. Jornada 39:		Getafe			2-0		Elche
+Temporada 2016_17 segunda división. Jornada 39:		Cádiz			1-1		Córdoba
+Temporada 2016_17 segunda división. Jornada 39:		Reus			2-1		Sevilla At.
+Temporada 2016_17 segunda división. Jornada 39:		Mirandés		2-2		Valladolid
+Temporada 2016_17 segunda división. Jornada 39:		Girona			0-0		Alcorcón
+Temporada 2016_17 segunda división. Jornada 39:		UCAM			3-1		Huesca
+Temporada 2016_17 segunda división. Jornada 40:		Valladolid		1-0		Getafe
+Temporada 2016_17 segunda división. Jornada 40:		Zaragoza		1-1		Rayo
+Temporada 2016_17 segunda división. Jornada 40:		Mallorca		0-0		Numancia
+Temporada 2016_17 segunda división. Jornada 40:		Córdoba			4-2		Real Oviedo
+Temporada 2016_17 segunda división. Jornada 40:		Elche			1-1		Reus
+Temporada 2016_17 segunda división. Jornada 40:		Levante			3-1		UCAM
+Temporada 2016_17 segunda división. Jornada 40:		Alcorcón		1-3		Tenerife
+Temporada 2016_17 segunda división. Jornada 40:		Huesca			1-0		Lugo
+Temporada 2016_17 segunda división. Jornada 40:		Almería			2-0		Mirandés
+Temporada 2016_17 segunda división. Jornada 40:		Sevilla At.		3-3		Cádiz
+Temporada 2016_17 segunda división. Jornada 41:		Real Oviedo		1-0		Sevilla At.
+Temporada 2016_17 segunda división. Jornada 41:		Tenerife		0-1		Gimnástic
+Temporada 2016_17 segunda división. Jornada 41:		Rayo			1-2		Córdoba
+Temporada 2016_17 segunda división. Jornada 41:		Getafe			4-0		Almería
+Temporada 2016_17 segunda división. Jornada 41:		Lugo			1-0		Levante
+Temporada 2016_17 segunda división. Jornada 41:		Huesca			0-0		Numancia
+Temporada 2016_17 segunda división. Jornada 41:		Cádiz			2-1		Elche
+Temporada 2016_17 segunda división. Jornada 41:		Reus			2-0		Valladolid
+Temporada 2016_17 segunda división. Jornada 41:		Mirandés		2-2		Mallorca
+Temporada 2016_17 segunda división. Jornada 41:		Girona			0-0		Zaragoza
+Temporada 2016_17 segunda división. Jornada 41:		UCAM			0-1		Alcorcón
+Temporada 2016_17 segunda división. Jornada 42:		Valladolid		1-0		Cádiz
+Temporada 2016_17 segunda división. Jornada 42:		Zaragoza		1-2		Tenerife
+Temporada 2016_17 segunda división. Jornada 42:		Mallorca		3-3		Getafe
+Temporada 2016_17 segunda división. Jornada 42:		Numancia		0-2		Mirandés
+Temporada 2016_17 segunda división. Jornada 42:		Córdoba			2-1		Girona
+Temporada 2016_17 segunda división. Jornada 42:		Elche			0-2		Real Oviedo
+Temporada 2016_17 segunda división. Jornada 42:		Levante			1-2		Huesca
+Temporada 2016_17 segunda división. Jornada 42:		Alcorcón		3-0		Lugo
+Temporada 2016_17 segunda división. Jornada 42:		Almería			1-0		Reus
+Temporada 2016_17 segunda división. Jornada 42:		Sevilla At.		1-2		Rayo
+Temporada 2016_17 segunda división. Jornada 42:		Gimnástic		1-0		UCAM
