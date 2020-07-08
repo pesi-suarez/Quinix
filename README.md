@@ -1,4 +1,4 @@
-The aim of this project is to create a feature matrix containing data from the Spanish Professional Football League historical record. This matrix can be used afterwards to train a classification model for predicting the Quiniela results (a certain kind of sports bet available in Spain).
+The aim of this project is to create a [feature matrix](https://en.wikipedia.org/wiki/Feature_(machine_learning)) containing data from the Spanish Professional Football League historical record. This matrix can be used afterwards to train a classification model for predicting the Quiniela results (a certain kind of sports bet available in Spain).
 
 The raw data is collected from the internet using a web scrapper. This data consists of football game results. For each game, the season, division, matchday, home team namne, away team, home team goals and away team goals are obtained. This data is then stored in a database.
 
